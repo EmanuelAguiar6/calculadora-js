@@ -1,3 +1,2 @@
 # calculadora-js
-Calculadora utilizando JavaScrip puro
-
+Calculadora  utilizando apenas JavaScript.
